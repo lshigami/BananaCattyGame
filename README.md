@@ -11,7 +11,7 @@ Use the arrow keys ( "A" to move Left and "D" to move right) to move your charac
 
 ## Features
 
-- Fun and addictive gameplay
+- Not-Fun and Not-addictive gameplay
 - Simple controls
 - Challenging obstacles
 
