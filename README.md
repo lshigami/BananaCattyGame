@@ -6,7 +6,7 @@ This is my first game created with Unity, and it's a great way to get familiar w
 
 ## How to Play
 
-Use the arrow keys to move your character around the screen. Collect bananas to increase your score, but watch out for bombs - if you touch them, you'll lose a life. If you lose all 3 lives, the game is over.
+Use the arrow keys ( "A" to move Left and "D" to move right) to move your character around the screen. Collect bananas to increase your score, but watch out for bombs - if you touch them, you'll lose a life. If you lose all 3 lives, the game is over.
 
 ## Features
 
