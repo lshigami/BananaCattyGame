@@ -3,6 +3,7 @@
 BananaCattyGame is a fun and exciting game where you collect bananas while avoiding bombs. Collect 20 bananas to win, but be careful - if you touch 3 bombs, you lose!
 
 This is my first game created with Unity, and it's a great way to get familiar with the application.
+![image-removebg-preview (16)](https://github.com/lshigami/BananaCattyGame/assets/135859127/168b7222-c4a8-42c8-be1d-cfe8824a2f7b)
 
 ## How to Play
 
